@@ -1,3 +1,6 @@
+This is an example of a captcha.
+You can try it easily :
+
 1/ Dowload files
 
 2/ Put files in a repertory (name it as you wish)
