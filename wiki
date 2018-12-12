@@ -1,0 +1,15 @@
+STEPS
+
+1/ Created a Fork from Nikelse/EasyCaptchas repository
+
+2/ Modify the title from ''EasyCaptchas'' to ''TP5''
+
+3/ Added a License
+
+4/ Added a ReadMe.txt
+
+5/ Added a wiki
+
+6/ Modified files
+
+7/ NOW....
